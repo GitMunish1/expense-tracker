@@ -1,0 +1,9 @@
+[33mcommit 8916f84fcdfcb795ec1012bf74356c12a2e082d1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: GitMunish1 <itsmrsduknow@gmail.com>
+Date:   Mon Apr 14 15:20:12 2025 +0530
+
+    this is expanse_tracker app which can help us to track expenses
+
+[1mdiff --git a/expense_tracker.py b/expense_tracker.py[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m

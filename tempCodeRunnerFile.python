@@ -1,0 +1,9 @@
+def seaarchout(teachers,tname):
+
+    for i in range(len(teachers)):
+        if teachers[i].lower() == tname.lower():
+            print(teachers[i], 'at', i)
+
+teachers=["ankit","siddharth","rahul","sangeeta","rahul"]
+tname="Rahul "
+seaarchout(teachers,tname)
